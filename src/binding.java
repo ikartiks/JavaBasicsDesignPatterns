@@ -21,9 +21,10 @@ public class binding {
 		System.out.println(superClass2.someVariable);
 		
 		/*op
-		Some Variable in SuperClass
-		Some Variable in SuperClass
-		since polymorphism is only for methods not instance variables*/ 
+			Some Variable in SuperClass
+			Some Variable in SuperClass
+			since polymorphism is only for methods not instance variables
+		*/ 
 
 	}
 }
